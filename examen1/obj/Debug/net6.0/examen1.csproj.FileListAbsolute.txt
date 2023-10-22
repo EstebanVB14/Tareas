@@ -1,0 +1,4 @@
+C:\Users\esteb\source\repos\Tareas\examen1\obj\Debug\net6.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\source\repos\Tareas\examen1\obj\Debug\net6.0\examen1.AssemblyInfoInputs.cache
+C:\Users\esteb\source\repos\Tareas\examen1\obj\Debug\net6.0\examen1.AssemblyInfo.cs
+C:\Users\esteb\source\repos\Tareas\examen1\obj\Debug\net6.0\examen1.csproj.CoreCompileInputs.cache
